@@ -73,5 +73,13 @@ background-image: url(/assets/backgrounds/landing.jpg);
 #div8{
  
 }
-#div9{}
+#div9{
+    text-align: right;
+}
 #div10{}
+#explore{
+    background-color: white;
+    color:#f15A29;
+    border:solid;
+    border-radius: 2px;
+}
