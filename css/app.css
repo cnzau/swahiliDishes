@@ -80,6 +80,7 @@ background-image: url(/assets/backgrounds/landing.jpg);
 #explore{
     background-color: white;
     color:#f15A29;
-    border:solid;
+    border:solid 1px;
     border-radius: 2px;
+    
 }
