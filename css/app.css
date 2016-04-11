@@ -1,12 +1,12 @@
 
+/*
 .row{
     margin-left: auto;
    margin-right: auto;
    max-width: initial;
-
-  
-  
 }
+*/
+
 #header{
  
     
@@ -65,4 +65,13 @@ background-image: url(/assets/backgrounds/landing.jpg);
     
 }
 
-
+#div6{}
+#div7{
+    margin-right: 0;
+    display: block;
+}
+#div8{
+ 
+}
+#div9{}
+#div10{}
