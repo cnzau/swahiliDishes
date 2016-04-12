@@ -1,9 +1,15 @@
-# BackBenchers
+# Swahili Dishes
 It is a fast food website.
 
-Framework: Foundation
-          Cody-house.
-          Material design for foundation.
+# Contributors:
+* arvid https://github.com/ArvidQuarshie
+* Clement Nzau https://github.com/cnzau
+* James Gitalry https://github.com/gitalry
 
-Contributors: Arvid,Clement,james.
 
+
+## Tools: 
+* Foundation
+* Codepen
+* Codyhouse
+* Material design for foundation
