@@ -40,11 +40,16 @@ color:white;
     height:20%;
 }
 
-#div1{
+#div1, #div2, #div1 a, #div2 a{
     height:100px;
+    color: #585859;
+    background-color: #E4E5E7;
+    
 }
-#div2{
-    height:100px;
+#div1:hover, #div2:hover, #div1:hover a, #div2:hover a{
+    color: #E4E5E7;
+    background-color: #F15A29;
+    
 }
 #div3{
     background-image: url(/assets/foodtop/breakfast.jpg);
